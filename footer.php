@@ -1,5 +1,5 @@
 <div class="copy">
-      <p>© 2017 Cityview Hotel . All Rights Reserved | Design by <a href="index.php">Admin</a> </p>
+      <p>© 2018 Cityview Hotel . All Rights Reserved | Design by <a href="index.php">Bishal</a> </p>
   </div>
 <!--/footer -->
 <!-- js -->
